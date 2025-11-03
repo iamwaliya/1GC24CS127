@@ -6,3 +6,7 @@ Section: B
 Branch: Computer Science & Engineering
 Year of Admission: 2024
 College Name: Ghousia college of Engineering
+UG Degree: Computer Science & Engineering
+PG Degree: Artificial Intelligence and Machine Learning
+PhD Degree: Artificial Intelligence
+
