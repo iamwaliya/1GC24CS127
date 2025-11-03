@@ -7,4 +7,4 @@ Subject Name: Project Management with GIT
 Subject Code: BCS358C
 Academic Year: 2025-26
 Mobile No: 1234567890
-Email ID: waliya123@gmail.com
+My Data of Joining to GCE:3rd Oct-2024
