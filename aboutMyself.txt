@@ -1,12 +1,12 @@
 Title: Ms.
-Full Name: waliya Rizwan
+Full Name: Waliya Rizwan
 USN: 1GC24CS127
 Semester: Third
 Section: B
 Branch: Computer Science & Engineering
 Year of Admission: 2024
-College Name: Ghousia college of Engineering
-UG Degree: Computer Science & Engineering
-PG Degree: Artificial Intelligence and Machine Learning
-PhD Degree: Artificial Intelligence
-
+College Name: GCE
+SSLC : Bishop Scott Senior Secondary Girls School
+PUC : Bishop Scott Senior Secondary Girls School
+UG Degree : Computer Science Engineering
+My Date of Joining to GCE :3rd Oct-2024
