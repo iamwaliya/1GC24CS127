@@ -1,5 +1,5 @@
 Title: Ms.
-Full Name: Walia Rizwan
+Full Name: Waliya Rizwan
 USN: 1GC24CS127
 Semester: Third
 Section: B
